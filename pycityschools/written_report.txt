@@ -1,0 +1,25 @@
+PyCity Schools Written Report
+
+----------------------------------------
+
+Summary
+
+After reviewing the data, we can see clear benefits of Charter schools for these high school students.
+Compared to their District counterparts, Charter school students are performing notably better in math and reading.
+We can also see a more notable stat: there is a sharp climb in percentage of students passing both.
+There is a roughly 35% jump of "% Overall Passing" on the "per_school_summary!
+This is incredibly important for setting up students for success and speaks to human learning habits.
+Speaking of which, we see math scores are uniformly lower than reading scores regardless of school type, size, or budget!
+Clearly math is just a tougher subject for students, and Charter schools are providing a more effecient learning environment.
+
+----------------------------------------
+
+Conclusions
+
+There is a sharp decline in passing scores once a school surpasses 2000 students.
+To make sure students are getting the individual attention they deserve, we should consider pushing budgets into multiple/smaller schools rather than single/larger schools.
+Schools with larger budgets are showing similar results, clearly we can't raise test scores with money.
+
+When we are comparing school types, we see Charter schools being more consistant with their averages.
+District schools average scores range from the mid-70's in math to low-80's in reading, where Charter schools settle in the mid-80's in both subjects.
+Math might require a little more time and attention for students and they appear to be better accommodated in Charter schools.
