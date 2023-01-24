@@ -5,7 +5,7 @@ PyCity Schools Written Report
 Summary
 
 After reviewing the data, we can see clear benefits of Charter schools for these high school students.
-Compared to their District counterparts, Charter school students are performing notably better in math and reading.
+Compared to their District counterparts, Charter school students are performing better in math and reading.
 We can also see a more notable stat: there is a sharp climb in percentage of students passing both.
 There is a roughly 35% jump of "% Overall Passing" on the "per_school_summary!
 This is incredibly important for setting up students for success and speaks to human learning habits.
