@@ -9,7 +9,10 @@ There are several ways to recontextualize the data, including organizing passing
 
 ![2](https://github.com/hdkronke/pandas-challenge/assets/117773492/78729b11-ccc5-41ef-b5c6-99a51669ecc2)
 
-Looking closer, I am also able to see how average funding spent per student relates to average passing grade!
+Looking closer, I am also able to see how average funding spent per student relates to average passing grade.
 
 ![3](https://github.com/hdkronke/pandas-challenge/assets/117773492/8a785e50-f668-4667-8157-97ea618fe530)
 
+The data suggests that student grades in charter schools outperfom district schools by a substantial margin!
+
+![4](https://github.com/hdkronke/pandas-challenge/assets/117773492/2b165045-c466-40a7-8a49-3645cec98c54)
